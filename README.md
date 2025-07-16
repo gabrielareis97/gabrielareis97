@@ -2,12 +2,11 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Analista%20de%20Dados-%23007ACC?style=flat-square&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/github/followers/gabrielareis?label=Followers&style=social" />
 </p>
 
 ---
 
-💻 Atualmente trabalho com e-commerce. 
+💻 Atualmente trabalho com e-commerce.
 📊 Buscando oportunidades como **Analista de Dados Júnior**.  
 📈 Amante de dashboards, storytelling com dados e insights práticos.  
 🌍 Interesses: Data Analysis, Python, Power BI, R, SQL, E-commerce.
