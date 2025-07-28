@@ -12,7 +12,7 @@
 💻 Trabalho com e-commerce e análise de dados  
 📊 Buscando oportunidades como <strong>Analista de Dados Júnior</strong>  
 📈 Apaixonada por dashboards e storytelling com dados  
-🌍 Interesses: Python · R · Power BI · SQL · E-commerce
+🌍 Interesses: Python · R · Power BI · SQL · Business Intelligence 
 
 </div>
 
